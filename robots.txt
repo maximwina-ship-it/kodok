@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sinomicsjournal.com/zone/sitemap.xml
+Sitemap: https://radjapublika.com/idcuan/sitemap.xml
