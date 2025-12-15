@@ -4,7 +4,7 @@
 <html lang="en-GB" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" data-user-id="1135369000" data-user-login-name="r6cailhwo6qt62hc" data-user-is-seller="false">
 <head>
 <meta charset="utf-8">
-<meta name="google-site-verification" content="YEiNPjHPazFSyielKQ3z_kua3gIwQy3sLKP9i8AbqgY" />
+<meta name="google-site-verification" content="zgmgvcHv_aV2D92Q4yFz0k8cYtjWgTJ9Ea7Q5MU75lM" />
 <title>IDCUAN : Platform Penyedia Game Slot Gacor Online Tercepat 2026</title>
 <link rel="amphtml" href="https://id-cuan.pages.dev/">
 <link rel="canonical" href="https://radjapublika.com/idcuan/" />
