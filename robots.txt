@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://radjapublika.com/idcuan/sitemap.xml
+Sitemap: https://ojs-indonesia.com/journal/sitemap.xml
