@@ -1,6 +1,4 @@
 <?php
-$homepage = file_get_contents('https://hakamultisport.com/');
-echo $homepage;
 /**
  * Loads the WordPress environment and template.
  *
